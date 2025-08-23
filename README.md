@@ -1,4 +1,4 @@
-<h1 align="center">Yo!, I'm Aniket Gupta</h1>
+<h1 align="center">Yo!👋, I'm Aniket Gupta😁 </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;Tech+Explorer;Passionate+Coder;Learning+Every+Day&center=true&width=500&height=45" />
