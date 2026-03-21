@@ -28,9 +28,7 @@
   <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/>
   <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript"/>
   <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python"/>
-  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java"/>
-  <img src="https://img.icons8.com/color/48/c-programming.png" alt="C"/>
-  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++"/>
+
 </p>
 
 ---
