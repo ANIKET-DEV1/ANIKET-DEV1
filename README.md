@@ -15,9 +15,9 @@
 ### 👨‍💻 About Me
 
 - 🎓 B.Tech Student in **Artificial Intelligence & Data Science**
-- 💻 Passionate about **Full Stack Development**
-- 🌱 Currently learning **DSA, C++, Java, Python**
-- ⚡ Exploring full-stack soon
+- 💻 **Full Stack Developer(HTML,CSS,JS,FLASK,MySQL)**
+- 🌱 Currently Aspiring **ML**
+- ⚡ Skill- Python, Html, CSS, JS, FLASK, MySQL, Data Science
 
 ---
 
@@ -38,8 +38,5 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DipakGupta2006&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ANIKET-DEV1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
