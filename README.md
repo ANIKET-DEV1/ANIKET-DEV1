@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/DipakGupta">
-    <img src="https://img.shields.io/github/followers/DipakGupta?label=Follow&style=social" alt="GitHub Follow" />
+  <a href="https://github.com/ANIKET-DEV1">
+    <img src="https://img.shields.io/github/followers/ANIKET-DEV1?label=Follow&style=social" alt="GitHub Follow" />
   </a>
 </p>
 
