@@ -1,42 +1,82 @@
-<h1 align="center">Yo!👋, I'm Aniket Gupta😁 </h1>
+<h1 align="center">🚀 Aniket Gupta</h1>
+<h3 align="center">Machine Learning Enthusiast • Full Stack Developer • Building Real Things</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;Tech+Explorer;Passionate+Coder;Learning+Every+Day&center=true&width=500&height=45" />
-</p>
-
-<p align="center">
+  <a href="https://awsmx.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-Live-black?style=for-the-badge" />
+  </a>
   <a href="https://github.com/ANIKET-DEV1">
-    <img src="https://img.shields.io/github/followers/ANIKET-DEV1?label=Follow&style=social" alt="GitHub Follow" />
+    <img src="https://img.shields.io/github/followers/ANIKET-DEV1?style=for-the-badge" />
   </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## ⚡ About Me
 
-- 🎓 B.Tech Student in **Artificial Intelligence & Data Science**
-- 💻 **Full Stack Developer(HTML,CSS,JS,FLASK,MySQL)**
-- 🌱 Currently Aspiring **ML**
-- ⚡ Skill- Python, Html, CSS, JS, FLASK, MySQL, Data Science
+I don’t just write code — I build **practical, data-driven applications**.
+
+* 🎓 B.Tech in **AI & Data Science**
+* 🤖 Aspiring **Machine Learning Engineer**
+* 💻 **Full Stack Developer (Flask + JS)**
+* 🧠 Focused on solving real-world problems with tech
+* ⚡ Currently improving ML + backend systems
+
+---
+
+## 🌐 Portfolio
+
+🔗 https://awsmx.vercel.app/
+
+> Built with performance, clean UI, and real usability in mind.
+> Designed with AI-assisted UI/UX improvements.
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5"/>
-  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/>
-  <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python"/>
+### 💻 Core
 
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+
+### 🌐 Frontend
+
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+
+### ⚙️ Backend
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask)
+
+### 🗄️ Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
 ---
-### 🧠 Languages and Tools
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## 🚀 What I'm Building
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ANIKET-DEV1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+* 🧠 Machine Learning Projects with real datasets
+* 🌐 Full Stack Apps with clean architecture
+* ⚡ Fast, minimal, and modern UI systems
+
+---
+
+## 🎯 Current Focus
+
+* Machine Learning fundamentals → advanced
+* Backend engineering (Flask → scalable systems)
+* Building projects that actually matter
+
+---
+
+## 🤝 Let's Connect
+
+* 🌐 Portfolio: https://awsmx.vercel.app/
+* 💼 Open to collaborations & opportunities
+
+---
+
+⭐ *If you like my work, consider following — more projects coming soon.*
