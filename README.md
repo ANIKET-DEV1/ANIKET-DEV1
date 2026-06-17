@@ -21,11 +21,11 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech in AI & Data Science
-- 💻 Building full-stack and ML-powered applications
-- ⚡ Focused on backend systems, APIs, and deployment
-- 🧠 Interested in machine learning, data-driven systems, and scalable architecture
-- 📦 Creating practical projects with clean UI and production-focused workflows
+- 🎓 B.Tech in AI & Data Science.
+- 💻 Building full-stack and ML-powered applications.
+- ⚡ Focused on backend system and deployment.
+- 🧠 Interested in machine learning, data-driven systems, and scalable architecture.
+- 📦 Creating practical projects with clean UI and production-focused workflows.
 
 ---
 
